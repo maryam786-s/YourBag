@@ -9,7 +9,7 @@ const iphone = {
   };
   
 const sumsung = {
-    phone: 'Sumsung A51',
+    phone: 'Samsung A51',
     image:'samsung.jpeg',
     price:200.00,
     id:'2',
